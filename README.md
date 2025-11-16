@@ -46,4 +46,3 @@ Ensure you have Python and the following libraries installed:
 - Additional dependencies are listed in the individual project directories.
 
 
-Happy coding!
